@@ -1,0 +1,11 @@
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\bin\Debug\net8.0\Pinnacle.PIS.Server.Domain.deps.json
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\bin\Debug\net8.0\Pinnacle.PIS.Server.Domain.dll
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\bin\Debug\net8.0\Pinnacle.PIS.Server.Domain.pdb
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\obj\Debug\net8.0\Pinnacle.PIS.Server.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\obj\Debug\net8.0\Pinnacle.PIS.Server.Domain.AssemblyInfoInputs.cache
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\obj\Debug\net8.0\Pinnacle.PIS.Server.Domain.AssemblyInfo.cs
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\obj\Debug\net8.0\Pinnacle.PIS.Server.Domain.csproj.CoreCompileInputs.cache
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\obj\Debug\net8.0\Pinnacle.PIS.Server.Domain.dll
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\obj\Debug\net8.0\refint\Pinnacle.PIS.Server.Domain.dll
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\obj\Debug\net8.0\Pinnacle.PIS.Server.Domain.pdb
+C:\Pinnacle\Server\Pinnacle.PIS.Server.Domain\obj\Debug\net8.0\ref\Pinnacle.PIS.Server.Domain.dll
