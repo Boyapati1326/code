@@ -1,0 +1,15 @@
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\bin\Release\net8.0\Pinnacle.PIS.Repository.deps.json
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\bin\Release\net8.0\Pinnacle.PIS.Repository.dll
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\bin\Release\net8.0\Pinnacle.PIS.Repository.pdb
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\bin\Release\net8.0\Pinnacle.PIS.Server.Domain.dll
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\bin\Release\net8.0\Pinnacle.PIS.Server.Domain.pdb
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\Pinnacle.PIS.Repository.csproj.AssemblyReference.cache
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\Pinnacle.PIS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\Pinnacle.PIS.Repository.AssemblyInfoInputs.cache
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\Pinnacle.PIS.Repository.AssemblyInfo.cs
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\Pinnacle.PIS.Repository.csproj.CoreCompileInputs.cache
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\Pinnacle.82E15450.Up2Date
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\Pinnacle.PIS.Repository.dll
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\refint\Pinnacle.PIS.Repository.dll
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\Pinnacle.PIS.Repository.pdb
+C:\Pinnacle\Server\Pinnacle.PIS.Repository\obj\Release\net8.0\ref\Pinnacle.PIS.Repository.dll
