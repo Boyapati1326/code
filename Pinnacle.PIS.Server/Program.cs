@@ -1,10 +1,5 @@
 
 using Microsoft.AspNetCore;
-using Microsoft.Extensions.Configuration;
-using Pinnacle.PIS.Repository;
-using Pinnacle.PIS.Server.Services;
-using Microsoft.Extensions.Hosting;
-using System.Configuration;
 using Serilog;
 
 namespace Pinnacle.PIS.Server
@@ -27,7 +22,14 @@ namespace Pinnacle.PIS.Server
      WebHost.CreateDefaultBuilder(args)
          .UseStartup<Startup>()
          .UseContentRoot(Directory.GetCurrentDirectory())
-         .UseShutdownTimeout(TimeSpan.FromSeconds(10));
+         .UseShutdownTimeout(TimeSpan.FromSeconds(10))
+         .ConfigureLogging((context, logging) =>
+         {
+             object value = logging.ClearProviders(); // Optional: Remove other logging providers if only using Serilog
+             logging.AddSerilog(new LoggerConfiguration()
+                 .ReadFrom.Configuration(context.Configuration)
+                 .CreateLogger());
+         });
 
     }
 }
